@@ -1,0 +1,40 @@
+.Interface{
+    padding-left: 55px;
+    font-size: 20px;
+    padding-top: 0px;
+}
+
+table{
+	padding-right: 60px;
+}
+
+button.linkHo { background:none;border:none; }
+button.linkTr { background:none;border:none; }
+button.linkCh { background:none;border:none; }
+
+.b-loc{
+    padding-top: 10px;
+    padding-left: 950px;
+}
+
+#map {
+/*    margin: 32px; */
+/*    width: auto; */
+/*    overflow: visible; */
+		width: 800px;
+		height: 500px;
+	float: right;
+}
+
+.tab1{
+	padding-left: 60px;
+}
+
+.bar12{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#left-w{
+	width: 400px;
+	height: 500px;
+}
